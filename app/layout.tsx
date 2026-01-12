@@ -10,11 +10,11 @@ export const metadata = {
   title: 'Team Robocon IITR',
   icons: {
     icon: [
-      { url: '/logo.svg', sizes: 'any' },
-      { url: '/logo.svg', type: 'image/png', sizes: '32x32' },
+      { url: '/logo.jpg', sizes: 'any' },
+      { url: '/logo.jpg', type: 'image/png', sizes: '32x32' },
     ],
     apple: [
-      { url: '/logo.svg', sizes: '180x180', type: 'image/png' },
+      { url: '/logo.jpg', sizes: '180x180', type: 'image/png' },
     ],
   },
   description: 'Mars Rover Prototype by Team Robocon IITR',

@@ -13,7 +13,7 @@ export default function Home() {
       <section id="hero" className="relative py-20 text-center">
         <div className="absolute inset-0 z-0">
           <Image
-            src="/hero-background.JPG"
+            src="/cover_image.jpeg"
             alt="Mars Rover Background"
             fill
             style={{ objectFit: 'cover' }}
@@ -77,6 +77,33 @@ export default function Home() {
         <div className="container mx-auto px-4">
           <h2 className="text-2xl md:text-3xl lg:text-4xl font-bold mb-8 md:mb-12 text-center">Our Achievements</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8">
+            <Card className="flex flex-col">
+              <CardHeader>
+                <CardTitle className="text-xl md:text-2xl">International Rover Challenge 2025</CardTitle>
+              </CardHeader>
+              <CardContent className="flex-grow">
+                <p className="text-base md:text-lg mb-2 font-semibold">10th Overall & 3rd in AbEx Mission</p>
+                <p className="text-justify">Secured a 10th Overall ranking among 30 participating teams, with a strong 3rd place finish in the AbEx Field Mission.</p>
+              </CardContent>
+            </Card>
+            <Card className="flex flex-col">
+              <CardHeader>
+                <CardTitle className="text-xl md:text-2xl">International Rover Design Challenge 2025</CardTitle>
+              </CardHeader>
+              <CardContent className="flex-grow">
+                <p className="text-base md:text-lg mb-2 font-semibold">Top 6 Finalist</p>
+                <p className="text-justify">Reached final among 20+ teams in only our second appearance in the challenge.</p>
+              </CardContent>
+            </Card>
+            <Card className="flex flex-col">
+              <CardHeader>
+                <CardTitle className="text-xl md:text-2xl">International Space Drone Challenge 2025</CardTitle>
+              </CardHeader>
+              <CardContent className="flex-grow">
+                <p className="text-base md:text-lg mb-2 font-semibold">5th Overall & 4th in Science Mission</p>
+                <p className="text-justify">Achieved a top-5 finish in our debut year, along with a 4th place ranking in the Science Mission.</p>
+              </CardContent>
+            </Card>
             <Card className="flex flex-col">
               <CardHeader>
                 <CardTitle className="text-xl md:text-2xl">International Rover Challenge 2024</CardTitle>
@@ -202,7 +229,7 @@ export default function Home() {
           </div>
           <div className="flex items-center space-x-2">
             <Phone className="h-5 w-5" />
-            <p className="text-base md:text-lg">+91 7781935105 (Mehul Anand)</p>
+            <p className="text-base md:text-lg">+91 9631538081 (Piyush Raj)</p>
           </div>
           <div className="flex items-center space-x-4 mt-4">
             <Link href="https://www.instagram.com/roboconiitr/" target="_blank" rel="noopener noreferrer" className="text-primary hover:text-primary-dark transition-colors">

@@ -1,4 +1,4 @@
-// File: /home/plague/robocon-website/v0_v2/app/page.tsx
+// File: /home/ubuntu/website_2025/app/page.tsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

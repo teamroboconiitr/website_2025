@@ -1,15 +1,47 @@
 {
   "pages": {
-    "/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/page.js"
+    "/_not-found/page": [
+      "static/chunks/webpack-1b400f1de436fe28.js",
+      "static/chunks/fd9d1056-3750f1c68fb99acb.js",
+      "static/chunks/117-5e880e9b1ad4d3fc.js",
+      "static/chunks/main-app-720333d3609110d7.js",
+      "static/chunks/app/_not-found/page-d559c2f0a0f33195.js"
     ],
     "/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/layout.css",
-      "static/chunks/app/layout.js"
+      "static/chunks/webpack-1b400f1de436fe28.js",
+      "static/chunks/fd9d1056-3750f1c68fb99acb.js",
+      "static/chunks/117-5e880e9b1ad4d3fc.js",
+      "static/chunks/main-app-720333d3609110d7.js",
+      "static/css/e0f4434200dadbf6.css",
+      "static/chunks/878-90966a7648331477.js",
+      "static/chunks/851-031b71f949c8d504.js",
+      "static/chunks/518-0ea3abcf2ca30cc6.js",
+      "static/chunks/app/layout-093d4010b415348a.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-1b400f1de436fe28.js",
+      "static/chunks/fd9d1056-3750f1c68fb99acb.js",
+      "static/chunks/117-5e880e9b1ad4d3fc.js",
+      "static/chunks/main-app-720333d3609110d7.js",
+      "static/chunks/878-90966a7648331477.js",
+      "static/chunks/851-031b71f949c8d504.js",
+      "static/chunks/279-856aa8da8a2a56ce.js",
+      "static/chunks/app/page-f17da8ce30f355b4.js"
+    ],
+    "/irc2026/page": [
+      "static/chunks/webpack-1b400f1de436fe28.js",
+      "static/chunks/fd9d1056-3750f1c68fb99acb.js",
+      "static/chunks/117-5e880e9b1ad4d3fc.js",
+      "static/chunks/main-app-720333d3609110d7.js",
+      "static/chunks/878-90966a7648331477.js",
+      "static/chunks/app/irc2026/page-f32fefa0e391ab03.js"
+    ],
+    "/irc2026/layout": [
+      "static/chunks/webpack-1b400f1de436fe28.js",
+      "static/chunks/fd9d1056-3750f1c68fb99acb.js",
+      "static/chunks/117-5e880e9b1ad4d3fc.js",
+      "static/chunks/main-app-720333d3609110d7.js",
+      "static/chunks/app/irc2026/layout-d59946bd791aade6.js"
     ]
   }
 }

@@ -13,6 +13,7 @@ type CarouselImage = {
 }
 
 const images: CarouselImage[] = [
+  { src: '/Team_photo_2025.JPG?height=400&width=600&text=Featured+Image+1', alt: '2025 Team, Accompanied by Faculty Advisor Prof. Sohom Chakrabarty', year: 2025 },
   { src: '/Team_photo_2024.JPG?height=400&width=600&text=Featured+Image+1', alt: 'Team with 2024 Mars Rover, Accompanied by Faculty Advisor Prof. Sohom Chakrabarty', year: 2024 },
   { src: '/Team_photo_2023.JPG?height=400&width=600&text=Featured+Image+1', alt: '2023 Team with Faculty Advisor Prof. Shailesh Ghanpule', year: 2023 },
   { src: '/Team_photo_2022.JPG?height=400&width=600&text=Featured+Image+1', alt: 'Team in the year 2022', year: 2022 },

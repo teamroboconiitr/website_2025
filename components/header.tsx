@@ -20,7 +20,7 @@ export default function Header() {
     { href: "achievements", label: "Achievements", type: "section" },
     { href: "gallery", label: "Gallery", type: "section" },
     { href: "contact", label: "Contact Us", type: "section" },
-    { href: "/irc2025", label: "IRC2025", type: "page" },
+    { href: "/irc2026", label: "IRC2026", type: "page" },
   ]
 
   const scrollToSection = (sectionId: string) => {
